@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', 'Times New Roman';
+    text-align: center;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+button {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #FFA368;
+    height: 100px;
+    width: 200px;
+    border: 0.2rem solid white;
+    border-radius: 10px;
+}
+.buttonDiv {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.scoreBoard {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
