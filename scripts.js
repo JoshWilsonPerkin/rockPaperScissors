@@ -95,7 +95,7 @@ const results = document.createElement("div");
 container.appendChild(results);
 
 const link = document.createElement("a");
-link.setAttribute("href", "https://github.com/JoshWilsonPerkin/rockPaperScissors/tree/rps-ui");
+link.setAttribute("href", "https://github.com/JoshWilsonPerkin/rockPaperScissors");
 link.appendChild(document.createTextNode("Link to code"));
 container.appendChild(link);
 
